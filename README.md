@@ -1,4 +1,4 @@
-![](http://www.mindsmart.com.br/wp-content/uploads/2014/07/paulie-juno-mocinhos.jpg)
+![](https://s13.postimg.org/ke797jduv/coyote.jpg)
 
 # Xref Runner
 Erlang Xref Runner (inspired in rebar's rebar_xref)
